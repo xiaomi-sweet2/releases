@@ -1,17 +1,5 @@
-# OrangeFox recovery
+# xiaomi-sweet2 releases
 
-By `xiaomi-sweet2` organization
+## Recovery
 
-## Latest release
-
-- [6dfecc9](releases/6dfecc9/README.md)
-  - [Changelog](releases/6dfecc9/README.md#changelog) | [Notes](releases/6dfecc9/README.md#notes) | [Download](releases/6dfecc9/README.md#download)
-
-## Old releases
-
-<details>
-<summary>Click to expand</summary>
-
-- ... (no older releases now)
-
-</details>
+- [OrangeFox](https://github.com/xiaomi-sweet2/releases/tree/recovery/orangefox)
