@@ -26,7 +26,7 @@ Based on:
 
 - AlphaDroid-14.0-20241012-sweet2-vanilla-v2.5.zip:
 
-  [GitHub Releases](https://github.com/xioami-sweet2/releases/releases/download/14.0%2Falphadroid%2F20241012/AlphaDroid-14.0-20241012-sweet2-vanilla-v2.5.zip) | [SourceForge](https://sourceforge.net/projects/xiaomi-sweet2/files/14.0/alphadroid/releases/20241012/AlphaDroid-14.0-20241012-sweet2-vanilla-v2.5.zip/download)
+  [GitHub Releases](https://github.com/xiaomi-sweet2/releases/releases/download/14.0%2Falphadroid%2F20241012/AlphaDroid-14.0-20241012-sweet2-vanilla-v2.5.zip) | [SourceForge](https://sourceforge.net/projects/xiaomi-sweet2/files/14.0/alphadroid/releases/20241012/AlphaDroid-14.0-20241012-sweet2-vanilla-v2.5.zip/download)
 
   <details>
   <summary>MD5 checksum</summary>
@@ -52,7 +52,7 @@ Based on:
 
 - AlphaDroid-14.0-20241012-sweet2-microg-v2.5.zip:
 
-  [GitHub Releases](https://github.com/xioami-sweet2/releases/releases/download/14.0%2Falphadroid%2F20241012/AlphaDroid-14.0-20241012-sweet2-microg-v2.5.zip) | [SourceForge](https://sourceforge.net/projects/xiaomi-sweet2/files/14.0/alphadroid/releases/20241012/AlphaDroid-14.0-20241012-sweet2-microg-v2.5.zip/download)
+  [GitHub Releases](https://github.com/xiaomi-sweet2/releases/releases/download/14.0%2Falphadroid%2F20241012/AlphaDroid-14.0-20241012-sweet2-microg-v2.5.zip) | [SourceForge](https://sourceforge.net/projects/xiaomi-sweet2/files/14.0/alphadroid/releases/20241012/AlphaDroid-14.0-20241012-sweet2-microg-v2.5.zip/download)
 
   <details>
   <summary>MD5 checksum</summary>
